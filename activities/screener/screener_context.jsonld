@@ -2,6 +2,78 @@
     "@context": {
         "@version": 1.1,
         "screener": "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/screener/items/",
+        "ctlo0": {
+            "@id": "screener:ctlo0.jsonld",
+            "@type": "@id"
+        },
+        "dctlo027": {
+            "@id": "screener:dctlo027.jsonld",
+            "@type": "@id"
+        },
+        "dctlo028": {
+            "@id": "screener:dctlo028.jsonld",
+            "@type": "@id"
+        },
+        "dctlo031": {
+            "@id": "screener:dctlo031.jsonld",
+            "@type": "@id"
+        },
+        "dctlo032": {
+            "@id": "screener:dctlo032.jsonld",
+            "@type": "@id"
+        },
+        "dctlo33": {
+            "@id": "screener:dctlo33.jsonld",
+            "@type": "@id"
+        },
+        "dctlo34": {
+            "@id": "screener:dctlo34.jsonld",
+            "@type": "@id"
+        },
+        "dctlo35": {
+            "@id": "screener:dctlo35.jsonld",
+            "@type": "@id"
+        },
+        "dctlo36": {
+            "@id": "screener:dctlo36.jsonld",
+            "@type": "@id"
+        },
+        "dctlo37": {
+            "@id": "screener:dctlo37.jsonld",
+            "@type": "@id"
+        },
+        "dctlo38": {
+            "@id": "screener:dctlo38.jsonld",
+            "@type": "@id"
+        },
+        "dctlo039": {
+            "@id": "screener:dctlo039.jsonld",
+            "@type": "@id"
+        },
+        "dctlo040": {
+            "@id": "screener:dctlo040.jsonld",
+            "@type": "@id"
+        },
+        "dctlo041": {
+            "@id": "screener:dctlo041.jsonld",
+            "@type": "@id"
+        },
+        "dctlo042": {
+            "@id": "screener:dctlo042.jsonld",
+            "@type": "@id"
+        },
+        "dctlo043": {
+            "@id": "screener:dctlo043.jsonld",
+            "@type": "@id"
+        },
+        "dctlo044": {
+            "@id": "screener:dctlo044.jsonld",
+            "@type": "@id"
+        },
+        "dctlo045": {
+            "@id": "screener:dctlo045.jsonld",
+            "@type": "@id"
+        },
         "dcscr005": {
             "@id": "screener:dcscr005.jsonld",
             "@type": "@id"

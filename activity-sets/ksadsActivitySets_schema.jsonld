@@ -1,10 +1,10 @@
 {
   "@context": [ "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-                "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-test/master/activity-sets/ksadsActivitySets_context.jsonld"
+                "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-test2/master/activity-sets/ksadsActivitySets_context.jsonld"
                 ],
   "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/ActivitySet.jsonld",
   "@id": "ksads_schema",
-  "skos:prefLabel": "KSADS Interview Test1",
+  "skos:prefLabel": "KSADS Interview Test2",
   "skos:altLabel": "ksads",
   "schema:description": "activity set for KSADS",
   "schema:schemaVersion": "0.0.1",
